@@ -1,0 +1,5 @@
+bin/*
+!bin/
+*.json
+libs/**/node_modules/
+src/**/*.class
